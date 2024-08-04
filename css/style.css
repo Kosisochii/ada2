@@ -428,3 +428,11 @@
 .testimonial-carousel .owl-dot.active::after {
     background: var(--primary);
 }
+
+#workTogether{
+    color: var(--secondary);
+}
+
+#logoImg{
+    width: 100px;
+}
